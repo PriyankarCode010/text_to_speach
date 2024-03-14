@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/text_to_speach/static/css/main.cdfc2f20.css",
+    "main.js": "/text_to_speach/static/js/main.afb2bef1.js",
+    "index.html": "/text_to_speach/index.html",
+    "main.cdfc2f20.css.map": "/text_to_speach/static/css/main.cdfc2f20.css.map",
+    "main.afb2bef1.js.map": "/text_to_speach/static/js/main.afb2bef1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdfc2f20.css",
+    "static/js/main.afb2bef1.js"
+  ]
+}
